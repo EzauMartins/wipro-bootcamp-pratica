@@ -27,13 +27,10 @@ public class Tv {
             Canal = novocanal;
         }
 
+        public String Delisgartv(){
+          return "Desligando TV....";
 
-
-
-
-
-
-
+        }
 
         }
 
