@@ -5,6 +5,7 @@
   
   Em cada pasta de exercio existe um readme com o pedido dos exercicios e ou breve explição.
   
+  Exercicio 01 -> https://github.com/EzauMartins/wipro-bootcamp-pratica/tree/master/Execicio01
   
   Exercicio Spring -> https://github.com/EzauMartins/exercicioSpringGama-Wipro
  
